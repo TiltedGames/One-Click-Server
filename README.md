@@ -1,4 +1,5 @@
-<br />
+<br /><br />
+
 
 # What is this project?
 
@@ -10,15 +11,15 @@ It is being developed and tested alongside [Recoup](https://github.com/TwoBirdsG
 
 <br />
 
+![Program screenshot](https://user-images.githubusercontent.com/25698069/119575800-6d221580-bd6c-11eb-9773-d45e5034dccd.PNG)
+
 ## How to run this server (Windows 32/64-bit)
-1. Download this git repository as a .zip using the green code button. Extract it wherever you'd like your server program to be stored.
-1. [Find your IPv4 address](https://whatismyipaddress.com/)
-   - Note: a static public IP address is required for easy public server management
-2. Run  ```gameserver/WebSocketServer/bin/Release/netcoreapp3.1/WebSocketServer.exe```, and allow the server to start.
-3. Enter the following command: config ip YOUR.IP.ADDRESS.HERE
-4. Decide on a port for your gameserver, or leave it at the default (port 5050)
-5. (optional) Enter the following command: config port PORTNUMBER
-6. (Windows) Make sure the selected port is available to outside connections
+1. Download this git repository as a .zip using the green code button.
+2. Extract it wherever you'd like your server program to be stored
+3. Run the 'gameserver.exe' from the extracted directory
+4. Configure your settings
+5. Make sure the selected port is available to outside connections
+   Quick guide for Windows...
    - Click start, and search for "Windows Defender Firewall"
    - Click "Advanced settings"
    - Click "Inbound rules"
@@ -27,7 +28,7 @@ It is being developed and tested alongside [Recoup](https://github.com/TwoBirdsG
    - Select "Specific local ports"
    - Enter your chosen port (default is 5050)
 7. Go back to the server program
-8. Enter the following command "config restart"
+8. Click 'Start server'
 
 <br />
 
