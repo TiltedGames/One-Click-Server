@@ -21,6 +21,14 @@ namespace One_Click_Server
         {
             throw new System.NotImplementedException();
         }
+        private void label10_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
 

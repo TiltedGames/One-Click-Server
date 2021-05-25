@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noahc\\Desktop\\one-click-gameserver\\One Click Server.csproj": {}
+    "C:\\Users\\noahc\\Desktop\\One-Click-Server\\One Click Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noahc\\Desktop\\one-click-gameserver\\One Click Server.csproj": {
+    "C:\\Users\\noahc\\Desktop\\One-Click-Server\\One Click Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noahc\\Desktop\\one-click-gameserver\\One Click Server.csproj",
+        "projectUniqueName": "C:\\Users\\noahc\\Desktop\\One-Click-Server\\One Click Server.csproj",
         "projectName": "One Click Server",
-        "projectPath": "C:\\Users\\noahc\\Desktop\\one-click-gameserver\\One Click Server.csproj",
+        "projectPath": "C:\\Users\\noahc\\Desktop\\One-Click-Server\\One Click Server.csproj",
         "packagesPath": "C:\\Users\\noahc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noahc\\Desktop\\one-click-gameserver\\obj\\",
+        "outputPath": "C:\\Users\\noahc\\Desktop\\One-Click-Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -32,3 +32,21 @@ C:\Users\noahc\Desktop\One Click Server\obj\Debug\net5.0-windows\One Click Serve
 C:\Users\noahc\Desktop\One Click Server\obj\Debug\net5.0-windows\ref\One Click Server.dll
 C:\Users\noahc\Desktop\One Click Server\obj\Debug\net5.0-windows\One Click Server.pdb
 C:\Users\noahc\Desktop\One Click Server\obj\Debug\net5.0-windows\One Click Server.genruntimeconfig.cache
+C:\Users\noahc\Desktop\One-Click-Server\bin\Debug\net5.0-windows\One Click Server.exe
+C:\Users\noahc\Desktop\One-Click-Server\bin\Debug\net5.0-windows\One Click Server.deps.json
+C:\Users\noahc\Desktop\One-Click-Server\bin\Debug\net5.0-windows\One Click Server.runtimeconfig.json
+C:\Users\noahc\Desktop\One-Click-Server\bin\Debug\net5.0-windows\One Click Server.runtimeconfig.dev.json
+C:\Users\noahc\Desktop\One-Click-Server\bin\Debug\net5.0-windows\One Click Server.dll
+C:\Users\noahc\Desktop\One-Click-Server\bin\Debug\net5.0-windows\ref\One Click Server.dll
+C:\Users\noahc\Desktop\One-Click-Server\bin\Debug\net5.0-windows\One Click Server.pdb
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.csprojAssemblyReference.cache
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One_Click_Server.GUI.resources
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.csproj.GenerateResource.cache
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.AssemblyInfoInputs.cache
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.AssemblyInfo.cs
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.csproj.CoreCompileInputs.cache
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.dll
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\ref\One Click Server.dll
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.pdb
+C:\Users\noahc\Desktop\One-Click-Server\obj\Debug\net5.0-windows\One Click Server.genruntimeconfig.cache

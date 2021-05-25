@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UW3NN0wSWL5XxBWJBiFRnoOqhPMg8pkDWd7zkSQGnK6g6ete94+j/J3cKGaoiowKZ3fInttL+O1o3Thtvp+jBg==",
+  "dgSpecHash": "0RCuRSoRC5GVmaJoR9QbiLdNRyYF9QOJ0Vf6p83tgHORm4bSRGd4qJRFDVvVu7sci0hj/ZGe9q3Q5WDPf9IgHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noahc\\Desktop\\one-click-gameserver\\One Click Server.csproj",
+  "projectFilePath": "C:\\Users\\noahc\\Desktop\\One-Click-Server\\One Click Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
