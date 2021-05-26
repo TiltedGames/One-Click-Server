@@ -1,5 +1,3 @@
-<br />
-<br />
 
 ## What is this project?
 
