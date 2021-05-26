@@ -1,20 +1,32 @@
-<br /><br />
+<br />
+<br />
 
+## What is this project?
 
-# What is this project?
-
-This project aims to make the process of multiplayer integration and server set up just "one-click" away. It uses the [Web Socket protocol](https://en.wikipedia.org/wiki/WebSocket), implemented in C# using the .NET Sockets framework. To store game information, it uses [Redis](https://redis.io/).
+This project aims to make the process of integrating multiplayer into your game just one click away. This project is completely free, covered by the MIT license, and imposes no restrictions on the server or client whatsoever. It aims to be not just easy to set up, but efficient, stable, and feature-rich. Because this server is being built alongside [Recoup](https://github.com/TiltedGames/Recoup), our Unity game, it is most useful for others writing Unity games as well. 
 
 <br />
 
-It is being developed and tested alongside [Recoup](https://github.com/TwoBirdsGetStoned/Recoup). 
+## Goals and Technical Details
+
+The core of this server is  the [Web Socket protocol](https://en.wikipedia.org/wiki/WebSocket). It is implemented in C# using the .NET Sockets API. This API was recently adopted by Microsoft into the .NET core framework, meaning this will be supported, stable, and maintained for the forseeable future. It is becased on the transmission Control Protocol (TCP), which receives a lot of negative attention in the gaming community. However, with [some critical improvements.](https://stackoverflow.com/questions/16945345/differences-between-tcp-sockets-and-web-sockets-one-more-time), we aim to show the viability of web sockets as a general purpose game server. 
+
+Our server application is being purpose-built to store not only the usual user and game information, but machine-learning models as well. This allows for version control of models, with the ability to "roll back" models to get the desired behavior in your game. It can be used to learn about the way players interact with the game, in addition to facilitating the training of in-game objects, like players or enemies. At the moment, our plan to begin carrying this out is by using [Redis](https://redis.io/). It is an in-memory "database" we believe will allow for the speedy operations we'd like.
+
+During the initial development, we are only offering a graphical version of the server application. The first release will also include a truly bare-bones console application with identical functionality. 
+
+<br />
+
+## Program Screenshot
 
 <br />
 
 ![Capture](https://user-images.githubusercontent.com/25698069/119578230-fd625980-bd70-11eb-8d0e-011a943b2646.PNG)
 
+<br />
 
-## How to run this server (Windows 32/64-bit)
+
+## Getting Started (Windows 32/64-bit)
 1. If you're going to host online, choose a TCP port to host on (we use 5050)
 2. Make sure the selected port is available to outside connections
    Quick guide for Windows...
