@@ -1,7 +1,7 @@
 
 ## What is this project?
 
-This project aims to make the process of integrating multiplayer into your game just one click away. This project is completely free, covered by the MIT license, and imposes no restrictions on the server or client whatsoever. It aims to be not just easy to set up, but efficient, stable, and feature-rich. Because this server is being built alongside [Recoup](https://github.com/TiltedGames/Recoup), our Unity game, it is most useful for others writing Unity games as well. 
+This project aims to make the process of integrating multiplayer into your game just one click away. This project is completely free, covered by the MIT license, and imposes no restrictions on the server or client whatsoever. 
 
 <br />
 
