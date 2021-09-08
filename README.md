@@ -9,8 +9,6 @@ This project aims to make the process of integrating multiplayer into your game 
 
 The core of this server is  the [Web Socket protocol](https://en.wikipedia.org/wiki/WebSocket). It is implemented in C# using the .NET Sockets API. This API was recently adopted by Microsoft into the .NET core framework, meaning this will be supported, stable, and maintained for the forseeable future. It is based on the Transmission Control Protocol (TCP), which receives a lot of negative attention in the gaming community. However, we considered [some critical improvements](https://stackoverflow.com/questions/16945345/differences-between-tcp-sockets-and-web-sockets-one-more-time) made when creating Web Sockets, and decided it was fit for the project. We aim to show the viability of C# and web sockets as a general purpose game server. 
 
-Our server application is being purpose-built to store not only the usual user and game information, but machine-learning models as well. This allows for version control of models, with the ability to "roll back" models to get the desired behavior in your game. It can be used to learn about the way players interact with the game, in addition to facilitating the training of in-game objects, like players or enemies. At the moment, our plan to begin carrying this out is by using [Redis](https://redis.io/). It is an in-memory "database" we believe will allow for the speedy operations we'd like.
-
 During the initial development, we are only offering a graphical version of the server application. The first release will also include a truly bare-bones console application with identical functionality. 
 
 <br />
